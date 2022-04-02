@@ -1,0 +1,11 @@
+:root {
+  --branco: #FFFFFF;
+  --vinho : #8E2424;
+  --cinza: #667085;
+  --cinza-escuro: #101828;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  box-sizing: border-box;
+}
