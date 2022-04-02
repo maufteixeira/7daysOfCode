@@ -3,4 +3,4 @@
 
 ## Desafio de Código Alura - 7daysOfCode
 
-### Day #1 - Cabeçalho
+### Day #2 - Cabeçalho
