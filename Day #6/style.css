@@ -1,0 +1,16 @@
+:root {
+  --branco: #FFFFFF;
+  --vinho : #8E2424;
+  --cinza: #667085;
+  --cinza-claro: #EAECF0;
+  --cinza-escuro: #101828;
+  --rosa: rgba(142, 36, 36, 0.05);
+}
+
+body {
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+  width: 90rem;
+}
