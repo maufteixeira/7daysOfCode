@@ -1,0 +1,46 @@
+.vagas {
+  display: flex;
+  flex-direction: column;
+  height: 56.75rem;
+  margin-left: 21rem;
+  width: 50rem;
+}
+
+.vagas__area {
+  margin-top: 3rem;
+}
+
+.vagas__categoria {
+  color: var(--cinza-escuro);
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  width: 48rem;
+}
+
+.vaga {
+  border: 1px solid var(--cinza-claro);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 1.5rem;
+  padding: 1rem;
+}
+
+.vaga__titulo {
+  font-size: 1.125rem;
+  font-weight: 500;
+}
+
+.vaga__informacoes {
+  color: var(--cinza);
+  display: flex;
+  flex-direction: row;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.vaga__descricao {
+  margin-right: 1.5rem;
+}
